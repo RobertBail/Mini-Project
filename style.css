@@ -94,11 +94,10 @@
   button {
     height: 40px;
     width: 120px;
-    background-color: #4F4846;
+    background-color: #0e0844;
     color: #FDF8F5;
   }
    
-  /* Class Selectors */
   .text-center {
     text-align: center;
   }
